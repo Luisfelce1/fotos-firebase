@@ -1,0 +1,18 @@
+{
+  "targets": {
+    "fotosfirebase-653f8": {
+      "hosting": {
+        "fotosFirebase": [
+          "fotosfirebase-653f8"
+        ]
+      }
+    },
+    "crud-app-ca40d": {
+      "hosting": {
+        "fotosFirebase": [
+          "crud-app-ca40d"
+        ]
+      }
+    }
+  }
+}
